@@ -4,8 +4,7 @@ A brief description of what this project does and who it's for
 
 ### 📚 Dokumentasi Referensi
 
-- Lisk SDK : https://lisk.com/documentation/lisk-sdk
-- Lisk Elements : https://lisk.com/documentation/lisk-elements
-- Lisk Wallet : https://lisk.com/products/wallet
-- Lisk Explorer : [https://liskscan.io](https://liskscan.io/)
-- Lisk Faucet : https://faucet.testnet.lisk.com
+- Lisk Docs : https://docs.lisk.com/
+- Lisk Connect : https://docs.lisk.com/user/connecting-to-a-wallet
+- Lisk Explorer : https://blockscout.lisk.com/
+- Lisk Faucet : https://sepolia-faucet.lisk.com
