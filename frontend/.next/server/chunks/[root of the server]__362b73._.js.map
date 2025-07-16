@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 55, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Lisk-Builders-Challenge/frontend/src/app/api/footer-data/route.ts"],"sourcesContent":["import { NextResponse } from \"next/server\";\r\n\r\nconst todayDate = new Date().getFullYear();\r\nconst footerData = {\r\n  copyright: `© ${todayDate} ZeroStart. All Rights Reserved`,\r\n};\r\n\r\nexport const GET = async () => {\r\n  return NextResponse.json({\r\n    footerData,\r\n  });\r\n};\r\n"],"names":[],"mappings":";;;AAAA;;AAEA,MAAM,YAAY,IAAI,OAAO,WAAW;AACxC,MAAM,aAAa;IACjB,WAAW,CAAC,EAAE,EAAE,UAAU,+BAA+B,CAAC;AAC5D;AAEO,MAAM,MAAM;IACjB,OAAO,gIAAA,CAAA,eAAY,CAAC,IAAI,CAAC;QACvB;IACF;AACF"}},
+    {"offset": {"line": 69, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
