@@ -23,7 +23,7 @@ function HeroSection() {
               {...bottomAnimation}
               className='relative flex flex-col text-center items-center gap-4'>
               <h1 className='font-medium w-full'>
-                Claim -> Swap -> Earn.
+                Claim > Swap > Earn.
                 <span className='instrument-font italic font-normal dark:text-white/70'>
                   <br />
                   without gas, without limits.
