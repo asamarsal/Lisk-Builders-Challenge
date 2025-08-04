@@ -88,16 +88,10 @@ const Header = () => {
               ) : (
                 <div className="flex items-center gap-2">
                   <Link
-                    href={"/signin"}
+                    href={"https://zerostart-azure.vercel.app/"}
                     className="hidden lg:block bg-transparent border border-dark_black dark:border-white/50 text-primary px-2.5 xl:px-4 py-2 rounded-full hover:bg-dark_black hover:text-white"
                   >
                     Sign In
-                  </Link>
-                  <Link
-                    href={"/signup"}
-                    className="hidden lg:block text-white px-2.5 xl:px-4 py-2  bg-dark_black dark:bg-white/20 rounded-full hover:opacity-90"
-                  >
-                    Sign Up
                   </Link>
                 </div>
               )}
@@ -199,16 +193,10 @@ const Header = () => {
                 ) : (
                   <>
                     <Link
-                      href={"/signin"}
+                      href={"https://zerostart-azure.vercel.app/"}
                       className="w-full border border-dark_black dark:border-white text-primary px-4 py-2 rounded-md hover:bg-dark_black dark:hover:bg-white hover:text-white dark:hover:text-dark_black"
                     >
                       Sign In
-                    </Link>
-                    <Link
-                      href={"/signup"}
-                      className="w-full text-white dark:text-dark_black px-4 py-2 bg-dark_black dark:bg-white rounded-md hover:opacity-90"
-                    >
-                      Sign Up
                     </Link>
                   </>
                 )}
