@@ -9,7 +9,6 @@ import Innovation from "./components/home/innovation";
 import OnlinePresence from "./components/home/online-presence";
 import Solutions from "./components/home/solution";
 import Subscription from "./components/home/subscription";
-import WebResult from "./components/home/web-result";
 
 export const metadata: Metadata = {
     title: "Home | ZeroStart",
@@ -27,36 +26,33 @@ export default function Home() {
       <Brand />
       {/* ---------------------Brand logo section Ends-----------------  */}
 
-      {/* ---------------------Web result section Starts-----------------  */}
-      <WebResult />
-      {/* ---------------------Web result section Ends-----------------  */}
 
       {/* ---------------------Innovation section Starts-----------------  */}
-      <Innovation />
+      {/* <Innovation /> */}
       {/* ---------------------Innovation section Ends-----------------  */}
 
       {/* ---------------------Online presence section Starts-----------------  */}
-      <OnlinePresence />
+      {/* <OnlinePresence /> */}
       {/* ---------------------Online presence section Ends-----------------  */}
 
       {/* ---------------------Creative mind section Starts-----------------  */}
-      <CreativeMind />
+      {/* <CreativeMind /> */}
       {/* ---------------------Creative mind section Ends-----------------  */}
 
       {/* ---------------------Customer Stories section Starts-----------------  */}
-      <CustomerStories />
+      {/* <CustomerStories /> */}
       {/* ---------------------Customer Stories section Ends-----------------  */}
 
       {/* ---------------------Subscription section Starts-----------------  */}
-      <Subscription />
+      {/* <Subscription /> */}
       {/* ---------------------Subscription section Ends-----------------  */}
 
       {/* ---------------------Faq section Starts-----------------  */}
-      <Faq />
+      {/* <Faq /> */}
       {/* ---------------------Faq section Ends-----------------  */}
 
       {/* ---------------------Achievements section Starts-----------------  */}
-      <Achievements />
+      {/* <Achievements /> */}
       {/* ---------------------Achievements section Ends-----------------  */}
 
       {/* ---------------------Solutions section Starts-----------------  */}
